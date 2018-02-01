@@ -1,3 +1,1 @@
 # programaprendizaje
-
-Hi Humans!
